@@ -15,7 +15,7 @@
    - '--image'
    - 'gcr.io/$PROJECT_ID/cloud-run-sample:$COMMIT_SHA'
    - '--region'
-   - 'REGION'
+   - 'asia-northeast1'
    - '--platform'
    - 'managed'
  images:
